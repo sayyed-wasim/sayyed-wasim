@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey , I'm Wasim,
 💻 I’m currently working on<br>Building scalable backend systems using Java, Spring Boot, and microservices architecture. I’m also working on real-world projects related to insurance and fintech domains.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, backend systems, and AI-based applications where I can contribute and learn advanced concepts.<br><br>🤝 I’m looking for help with<br>Advanced system design, AI/ML integration in backend applications, and improving problem-solving skills for high-level interviews.<br><br>🌱 I’m currently learning<br>Artificial Intelligence, System Design, and advanced Java concepts to transition towards becoming an AI Engineer.<br><br>💬 Ask me about<br>Java, Spring Boot, REST APIs, Microservices, SQL, Backend Development, and Insurance Domain knowledge.<br><br>⚡ Fun fact<br>I enjoy learning guitar and exploring new technologies while balancing coding and creativity.
 
 
